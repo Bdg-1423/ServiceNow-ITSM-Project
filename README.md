@@ -4,7 +4,7 @@ ServiceNow ITSM full Lifecycle, Incident, Problem and Change management ITIL
 # Project Overview
 
 ITSM (IT Service Management) Flow in ServiceNow is a sequential lifecycle focused on Incident, Problem, and Change Management. Aligned together, these processes lead to greater reliability, reduced incidents, and continuous improvement.
-Here is an overview of each phase as detailed in the graphic:
+Here is an overview of each phase as detailed in the graphic below:
 
 <img width="682" height="1024" alt="image (9)" src="https://github.com/user-attachments/assets/1aafee7a-5051-4a91-9867-27d76b0e02de" />
 
